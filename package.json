@@ -1,0 +1,45 @@
+{
+  "name": "@dryauk/semantic-release-config",
+  "version": "0.1.0",
+  "description": "semantic-release shareable configuration",
+  "author": "DryAuk (https://github.com/dryauk)",
+  "homepage": "https://github.com/dryauk/semantic-release-config#readme",
+  "repository": "https://github.com/dryauk/semantic-release-config",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "keywords": [
+    "conventional-changelog",
+    "release",
+    "semantic-release",
+    "semantic-release-config",
+    "version"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=16",
+    "yarn": ">=1.20"
+  },
+  "main": "index.json",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "prepare": "husky install",
+    "lint": "yarn lint:commit",
+    "lint:commit": "commitlint --from=$( git rev-list --tags --max-count=1 )"
+  },
+  "dependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0"
+  },
+  "peerDependencies": {
+    "semantic-release": ">=17.0.0 <18.0.0"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^12.1.4",
+    "@commitlint/config-conventional": "^12.1.4",
+    "husky": "^7.0.1",
+    "semantic-release": "^17.4.4"
+  }
+}

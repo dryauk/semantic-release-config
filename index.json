@@ -1,0 +1,17 @@
+{
+  "branches": [
+    "main",
+    {
+      "name": "(feat|fix)/**",
+      "prerelease": "${name.replace(/^(feat|fix)\\//, '')}"
+    }
+  ],
+  "plugins": [
+    "@semantic-release/commit-analyzer",
+    "@semantic-release/release-notes-generator",
+    "@semantic-release/npm",
+    "@semantic-release/changelog",
+    "@semantic-release/git",
+    "@semantic-release/github"
+  ]
+}

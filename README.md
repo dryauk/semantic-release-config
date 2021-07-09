@@ -10,8 +10,8 @@ This shareable configuration use the following plugins:
 - [`@semantic-release/release-notes-generator`](https://github.com/semantic-release/release-notes-generator)
 - [`@semantic-release/npm`](https://github.com/semantic-release/npm)
 - [`@semantic-release/github`](https://github.com/semantic-release/gitlab)
-- [`@semantic-release/changelog`](https://github.com/seamntic-release/changelog)
-- [`@semantic-release/git`](https://github.com/seamntic-release/git)
+- [`@semantic-release/changelog`](https://github.com/semantic-release/changelog)
+- [`@semantic-release/git`](https://github.com/semantic-release/git)
 
 ## Install
 

@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/dryauk/semantic-release-config/compare/v1.1.0...v2.0.0) (2021-10-01)
+
+
+### chore
+
+* bump semantic-release to 18 ([096762f](https://github.com/dryauk/semantic-release-config/commit/096762f05f9e48ccb0616a84c0874bdf3869ac72))
+
+
+### BREAKING CHANGES
+
+* the minimum required version of node is now v14.17
+
 # [1.1.0](https://github.com/dryauk/semantic-release-config/compare/v1.0.0...v1.1.0) (2021-07-18)
 
 

@@ -39,7 +39,7 @@
   "devDependencies": {
     "@commitlint/cli": "^13.2.1",
     "@dryauk/commitlint-config": "^2.0.0",
-    "husky": "^7.0.2"
+    "husky": "^7.0.4"
   },
   "commitlint": {
     "extends": "@dryauk/commitlint-config"

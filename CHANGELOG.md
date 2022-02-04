@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/dryauk/semantic-release-config/compare/v2.0.0...v2.1.0) (2022-02-04)
+
+
+### Features
+
+* add custom release rules ([5fc9c01](https://github.com/dryauk/semantic-release-config/commit/5fc9c018531fdf9ce8b88e5d7c15956eb98fcd13))
+
 # [2.0.0](https://github.com/dryauk/semantic-release-config/compare/v1.1.0...v2.0.0) (2021-10-01)
 
 

@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/dryauk/semantic-release-config/compare/v2.1.0...v3.0.0) (2022-02-14)
+
+
+### chore
+
+* upgrade semantic-release to 19 ([ec9b906](https://github.com/dryauk/semantic-release-config/commit/ec9b9064f8555c7a3daad753e3f0a67475d91ea3))
+
+
+### BREAKING CHANGES
+
+* Require semantic-release@^19
+
 # [2.1.0](https://github.com/dryauk/semantic-release-config/compare/v2.0.0...v2.1.0) (2022-02-04)
 
 

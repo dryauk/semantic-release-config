@@ -1,6 +1,6 @@
 {
   "name": "@dryauk/semantic-release-config",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "semantic-release shareable configuration",
   "author": "DryAuk (https://github.com/dryauk)",
   "homepage": "https://github.com/dryauk/semantic-release-config#readme",

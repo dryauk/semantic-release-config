@@ -37,8 +37,8 @@
     "semantic-release": "^19"
   },
   "devDependencies": {
-    "@commitlint/cli": "^15.0.0",
-    "@dryauk/commitlint-config": "^3.0.1",
+    "@commitlint/cli": "^17.1.2",
+    "@dryauk/commitlint-config": "^4.0.2",
     "husky": "^7.0.4",
     "semantic-release": "^19.0.2"
   },

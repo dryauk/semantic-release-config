@@ -1,3 +1,17 @@
+# [4.0.0](https://github.com/dryauk/semantic-release-config/compare/v3.0.0...v4.0.0) (2023-11-21)
+
+
+### chore
+
+* upgrade node version to 20 ([96a8922](https://github.com/dryauk/semantic-release-config/commit/96a8922bf3cd30df24eb8d3619e5cae8355651c4))
+* upgrade semantic-release peer dependency to 22 ([f405b29](https://github.com/dryauk/semantic-release-config/commit/f405b29b01deea70747a91bc0af938234d730c20))
+
+
+### BREAKING CHANGES
+
+* Require node 20
+* Require semantic-release@^22
+
 # [3.0.0](https://github.com/dryauk/semantic-release-config/compare/v2.1.0...v3.0.0) (2022-02-14)
 
 
